@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "373848409361",
+    "firebase_url": "https://iunpcarpool.firebaseio.com",
+    "project_id": "iunpcarpool",
+    "storage_bucket": "iunpcarpool.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373848409361:android:e22aa79e7c72cb90",
+        "android_client_info": {
+          "package_name": "psychegrammer.example.iunpcarpool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373848409361-kpesti3hps70c6c4a4a04gmaoni9cig3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "psychegrammer.example.iunpcarpool",
+            "certificate_hash": "be02a7ae9a49a788cbb56b713f3be22856ab982a"
+          }
+        },
+        {
+          "client_id": "373848409361-3jhps7ephae6g7i0d9nuu8k4viof6lml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACSz2bSW3LXLY08_QI0TAfYXtBkBa802s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373848409361-3jhps7ephae6g7i0d9nuu8k4viof6lml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
